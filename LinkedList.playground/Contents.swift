@@ -1,4 +1,3 @@
-```
 import Foundation
 
 /// Linked List Structure with recursive enumeration implimentation which conforms to sequence protocol.
@@ -37,4 +36,3 @@ list.forEach {
 let fives = list.filter { $0 == "five" }
 print(fives)
 
-```
